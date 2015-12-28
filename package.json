@@ -1,0 +1,16 @@
+{
+  "name": "dapphoto",
+  "version": "1.0.0",
+  "description": "simple display of photos",
+  "main": "dap.js",
+  "scripts": {
+    "start server" :"nodemon dap.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/bpj101/dap-photo.git"
+  },
+  "author": "Paul Julian",
+  "license": "ISC"
+}
